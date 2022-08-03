@@ -2,7 +2,7 @@
 <br>
 
 <p align="center"> 
-  <img src="prints/banner.png" alt="Game Title">
+  <img src="https://github.com/giovanemachado/SceeVees/blob/master/Prints/banner.png" alt="Game Title">
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Inspired by the macro of SC2 and AOEIV, this game was created for the , and is f
 
 <h2 id="#how-to-play"> How to play</h2>
 <p align="center"> 
-  <img src="prints/how-to-play.png" alt="How to play">
+  <img src="https://github.com/giovanemachado/SceeVees/blob/master/Prints/how-to-play.png" alt="How to play">
 </p>
 Play here: https://giovanemachado.itch.io/sceevees
 
@@ -56,5 +56,5 @@ Created in 9h hours, for Triple Trijam 2022 Game Jam (https://itch.io/jam/triple
 <a href="https://itch.io/profile/misterg-gamedev"> misterG-gamedev</a> - game art
 
 <p align="center"> 
-  <img src="prints/in-game-print.jpeg" alt="Gameplay screen">
+  <img src="https://github.com/giovanemachado/SceeVees/blob/master/Prints/in-game-print.jpeg" alt="Gameplay screen">
 </p>
